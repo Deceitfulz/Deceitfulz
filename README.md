@@ -18,3 +18,7 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deceitfulz&show_icons=true&theme=radical)
+
+## 💎 Badge
+![GitHub badge](https://img.shields.io/badge/SQL-Programming-brightgreen)
+![GitHub badge](https://img.shields.io/badge/Python-Programming-blue)
