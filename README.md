@@ -16,7 +16,7 @@ A data engineering and cloud computing enthusiast currently in Bangkit Academy 2
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ihsan112)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram)](https://instagram.com/ihsan_112_)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://youtube.com/channel/@deceitfulicious)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@deceitfulicious)
 
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
