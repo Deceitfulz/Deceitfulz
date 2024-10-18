@@ -14,7 +14,7 @@
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/ihsan112/)
 - [Email](mailto:ihsankamil.112@gmail.com)
-- [Whatsapp](wa.me/6281211528765)
+- [Whatsapp](https://wa.me/6281211528765)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deceitfulz&show_icons=true&theme=radical)
