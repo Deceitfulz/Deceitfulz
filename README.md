@@ -24,10 +24,11 @@ A data engineering and cloud computing enthusiast, a cohort at Bangkit Academy 2
 ![](https://github-profile-trophy.vercel.app/?username=Deceitfulz&theme=onestar&no-frame=true&no-bg=true&column=6)
 
 ## Languages and Tools:
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=for-the-badge&logo=google-cloud)
-![DBeaver](https://img.shields.io/badge/-DBeaver-000?style=for-the-badge&logo=dbeaver)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?style=for-the-badge&logo=apache-airflow)
+[![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+[![Google Cloud](https://img.icons8.com/fluency/48/000000/google-cloud.png)](https://cloud.google.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48"/>](https://www.postgresql.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="48"/>](https://airflow.apache.org/)
+[![Docker](https://img.icons8.com/color/48/000000/docker.png)](https://www.docker.com/)
